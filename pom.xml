@@ -19,7 +19,9 @@
 		<module>eureka-client-consumer</module>
 		<module>feign-hystrix</module>
 		<module>feign-hystrix-dashboard</module>
-		<module>gateway-service-zuul</module>
+		<module>zuul-service</module>
+		<module>consul-producer-a</module>
+		<module>consul-producer-b</module>
 	</modules>
 
 </project>
